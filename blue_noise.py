@@ -2,15 +2,10 @@
 The algorithm could speed up by memorizing some calculating results
 """
 
-from itertools import islice
-import random
 from scipy import stats
 import numpy as np
+import random
 import math
-import json
-import time
-import g
-import os
 import logging
 
 
